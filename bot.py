@@ -1,1 +1,1 @@
-python
+mening birinchi botim
