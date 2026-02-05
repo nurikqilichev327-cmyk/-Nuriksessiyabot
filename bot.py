@@ -1,1 +1,1 @@
-print("Mening birinchi botim ishlayapti!")
+nprint("Mening birinchi botim ishlayapti!")
