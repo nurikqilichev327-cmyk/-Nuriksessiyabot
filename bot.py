@@ -1,1 +1,1 @@
-mening birinchi botim
+print("Mening birinchi botim ishlayapti!")
