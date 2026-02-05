@@ -1,1 +1,1 @@
-print("Salom dunyo")
+print("Mening birinchi botim ishlayapti!")
